@@ -5,9 +5,9 @@
   - [E81 CSE 511A: Introduction to Artificial Intelligence](https://www.cse.wustl.edu/~wyeoh/courses/cse511a/2019spring)
 
 ## Project 1: General search algorithms
-  Help Pacman agent to find paths through his maze world.
-
-### Core Algorithms
+  Help Pacman agent to find paths through his maze world.  
+    
+  Core Algorithms
   - Breadth First Search
   - Depth First Search
   - Uniform Cost Search
@@ -15,9 +15,9 @@
   - Greedy Search
 
 ## Project 2: Adversarial search
- Design adversarial agents for the classic version of Pacman.
-
-### Core Algorithms
+ Design adversarial agents for the classic version of Pacman.  
+   
+   Core Algorithms
   - MiniMax algorithm
   - Alpha-Beta algorithm
   - Expectimax search
