@@ -1,29 +1,33 @@
 # Introduction to Artificial Intelligence 
-It is based on CS188 at UC Berkeley.
+## Source Code:
+  - This is the source code of introduction to artificial intelligence
+### Course Website link:
+  - [E81 CSE 511A: Introduction to Artificial Intelligence](https://www.cse.wustl.edu/~wyeoh/courses/cse511a/2019spring)
 
 ## Project 1: General search algorithms
 ### Goals
 Help Pacman agent to find paths through his maze world, both to reach a particular location and to collect food efficiently.
 
-1. Depth-first search (DFS)
-2. Breadth-first search (BFS)
-3. Uniform-cost graph search
-4. A* graph search
-5. Implement a search problem *CornersProblem*
-6. Implement a consistent, non-trivial heuristic for *CornersProblem*
-7. Implement a consistent, non-trivial heuristic for *FoodSearchProblem*
-8. Suboptimal search
+### Core Algorithms
+  - Breadth First Search
+  - Depth First Search
+  - Uniform Cost Search
+  - A Star Search
+  - Greedy Search
 
 ## Project 2: Adversarial search
 ### Goals
-Design agents for the classic version of Pacman, including ghosts.
+Design adversarial agents for the classic version of Pacman, including ghosts.
 
-1. Reflex agent
-2. Minimax agent
-3. Alpha-beta pruning
-4. Expectimax agent
-5. Better evaluation function
-
+### Core Algorithms
+  - MiniMax algorithm
+  - Alpha-Beta algorithm
+  - Expectimax search
+  
 ## Project 3: Reinforcement learning
+  Not implemented yet
+  
+## Copyright:
+  - If you are students of Washington University in St. Louis, you should cite properly and do not violate the academic integrity when you using this code.
 
-## Project 4: Probabilistic inference
+  - Please contact the author through [email](mailto:Li.z@wustl.edu) if you want to use this code in other ways
