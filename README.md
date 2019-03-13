@@ -7,7 +7,7 @@
 ## Project 1: General search algorithms
   Help Pacman agent to find paths through his maze world.  
     
-  Core Algorithms
+  Core Algorithms: 
   - Breadth First Search
   - Depth First Search
   - Uniform Cost Search
@@ -17,7 +17,7 @@
 ## Project 2: Adversarial search
  Design adversarial agents for the classic version of Pacman.  
    
-   Core Algorithms
+   Core Algorithms:
   - MiniMax algorithm
   - Alpha-Beta algorithm
   - Expectimax search
