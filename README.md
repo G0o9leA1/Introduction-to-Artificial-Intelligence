@@ -5,8 +5,7 @@
   - [E81 CSE 511A: Introduction to Artificial Intelligence](https://www.cse.wustl.edu/~wyeoh/courses/cse511a/2019spring)
 
 ## Project 1: General search algorithms
-### Goals
-Help Pacman agent to find paths through his maze world, both to reach a particular location and to collect food efficiently.
+  Help Pacman agent to find paths through his maze world.
 
 ### Core Algorithms
   - Breadth First Search
@@ -16,8 +15,7 @@ Help Pacman agent to find paths through his maze world, both to reach a particul
   - Greedy Search
 
 ## Project 2: Adversarial search
-### Goals
-Design adversarial agents for the classic version of Pacman, including ghosts.
+ Design adversarial agents for the classic version of Pacman.
 
 ### Core Algorithms
   - MiniMax algorithm
@@ -25,7 +23,7 @@ Design adversarial agents for the classic version of Pacman, including ghosts.
   - Expectimax search
   
 ## Project 3: Reinforcement learning
-  Not implemented yet
+  - Not implemented yet
 
 ## Authors:
   - Wenjie Qiu and Zixuan Li
