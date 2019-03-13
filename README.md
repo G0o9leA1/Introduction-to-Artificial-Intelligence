@@ -26,7 +26,10 @@ Design adversarial agents for the classic version of Pacman, including ghosts.
   
 ## Project 3: Reinforcement learning
   Not implemented yet
-  
+
+## Authors:
+  - Wenjie Qiu and Zixuan Li
+
 ## Copyright:
   - If you are students of Washington University in St. Louis, you should cite properly and do not violate the academic integrity when you using this code.
 
