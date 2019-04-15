@@ -25,7 +25,7 @@
 ## Project 3: Reinforcement learning
  Implement value iteration and Q-learning.
 
-   Value iteration
+   Core Algorithms:
   - Q-learning: epsilon-greedy
   - Q-learning: parameter tuning
   - Q-learning: crawler
