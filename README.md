@@ -23,7 +23,14 @@
   - Expectimax search
   
 ## Project 3: Reinforcement learning
-  - Not implemented yet
+ Implement value iteration and Q-learning.
+
+   Value iteration
+  - Q-learning: epsilon-greedy
+  - Q-learning: parameter tuning
+  - Q-learning: crawler
+  - Q-learning: training
+  - Approximate Q-learning
 
 ## Authors:
   - Wenjie Qiu and Zixuan Li
